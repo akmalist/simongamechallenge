@@ -1,2 +1,2 @@
-# simongamechallenge-
+# simongamechallenge
  Simon game challenge 
